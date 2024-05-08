@@ -1,8 +1,4 @@
-# AttnSdrHackers
-Calling all SDR and radio frequency hackers!!!:
-
-Calling All SDR Hackers, Tinkerers, and Knowledge Ninjas!
-This ain't your grandma's SDR beginner pos
+      ##AttnSdrHackers:README##
 
 Calling All SDR Hackers, Tinkerers, and Knowledge Ninjas!
 
